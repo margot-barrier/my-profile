@@ -1,0 +1,99 @@
+ body {
+background-color: rgb(240, 240, 240);
+color: rgb(40, 40, 40);
+
+font-size: 20px;
+line-height: 1.6;
+font-family: Arial, sans-serif;
+letter-spacing: 1px;
+font-weight: lighter;
+text-align: center;
+
+
+
+}
+
+h1, h2 { 
+	font-family: Times, serif;
+	text-align: center;
+}
+
+
+h1 {
+	color: rgb(10, 10, 10);
+	font-family: Times, serif;
+	font-size: 45px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+
+}
+
+a:hover {
+	color: paleturquoise;
+
+}
+
+
+p {
+	font-size: 20px;
+	text-align: center;
+
+
+}
+
+h2{
+	color: blueviolet;
+	font-family: Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	align-content: center;
+}
+
+
+h3{
+	text-align: center;
+}
+
+.structure {
+	    padding: 30px;
+    margin: 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 20%);
+    border-radius: 4px;
+
+}
+
+#style {
+	width: 700px;
+    margin: 10px auto;
+
+}
+
+
+#profile {
+	width: 200px;
+    border-radius: 50%;
+    text-align: center;
+
+
+}
+
+.horizontal-list {
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+.horizontal-list li {
+	display: inline;
+	padding: 10px;
+}
+
+.horizontal-list i {
+	font-size: 50px;
+}
+
+
